@@ -1,1 +1,1 @@
-# regression
+# Gradient Weighted Regression
